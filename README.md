@@ -1,4 +1,4 @@
-# PrimitiveDataTypesAndObjects
+#PrimitiveDataTypesAndObjects
 // Primitive Data Types
 //nn bb ss u
 let a = null;
